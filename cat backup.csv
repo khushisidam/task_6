@@ -1,0 +1,1000 @@
+serial_no,Breed,Age ,Weight ,Color,Gender
+1,Russian Blue,19,7,Tortoiseshell,Female
+2,Norwegian Forest,19,9,Tortoiseshell,Female
+3,Chartreux,3,3,Brown,Female
+4,Persian,13,6,Sable,Female
+5,Ragdoll,10,8,Tabby,Male
+6,Ocicat,9,8,Blue,Female
+7,Ragdoll,6,5,Calico,Female
+8,Abyssinian,12,3,Tabby,Male
+9,Oriental,2,7,White,Male
+10,Egyptian Mau,12,3,White,Male
+11,Chartreux,16,4,White,Male
+12,American Shorthair,13,5,Black,Male
+13,Bengal,16,6,White,Male
+14,Cornish Rex,13,6,Pointed,Male
+15,British Shorthair,19,3,Red,Female
+16,Burmese,14,5,Pointed,Male
+17,Burmese,13,3,Pointed,Male
+18,Russian Blue,10,7,Black,Male
+19,Singapura,7,3,Blue,Female
+20,Maine Coon,5,6,Tricolor,Male
+21,British Shorthair,17,6,Cream,Female
+22,Abyssinian,9,3,Tabby,Male
+23,Cornish Rex,6,9,Pointed,Male
+24,Turkish Angora,16,6,Sable,Female
+25,Burmese,6,7,Calico,Female
+26,Himalayan,6,6,Tortoiseshell,Male
+27,Sphynx,18,4,Cream,Male
+28,Manx,1,4,Blue,Male
+29,Siberian,17,2,Calico,Male
+30,Birman,17,7,Pointed,Female
+31,Oriental,1,2,Tortoiseshell,Female
+32,Balinese,11,9,White,Male
+33,Egyptian Mau,13,3,Pointed,Male
+34,Devon Rex,1,3,Orange,Male
+35,Egyptian Mau,8,3,Cream,Male
+36,Sphynx,6,3,Tortoiseshell,Female
+37,Norwegian Forest,5,9,Sable,Female
+38,Norwegian Forest,5,6,Tabby,Male
+39,Persian,6,2,Sable,Male
+40,American Shorthair,13,8,Black,Male
+41,Ragdoll,18,3,Cream,Male
+42,Burmese,13,4,Blue,Female
+43,Himalayan,7,9,Tabby,Female
+44,Egyptian Mau,8,6,White,Male
+45,Exotic Shorthair,17,2,White,Male
+46,Egyptian Mau,1,7,Gray,Female
+47,Egyptian Mau,16,6,White,Male
+48,Turkish Angora,11,5,Bicolor,Male
+49,Abyssinian,4,9,Blue,Female
+50,Persian,4,3,Bicolor,Male
+51,Maine Coon,17,4,Black,Male
+52,Oriental,17,7,Red,Female
+53,Manx,10,9,Tricolor,Female
+54,Persian,6,2,Blue,Male
+55,Scottish Fold,17,6,Tricolor,Male
+56,Balinese,18,2,Orange,Male
+57,Cornish Rex,10,5,Tabby,Male
+58,Ragdoll,13,4,Brown,Male
+59,Savannah,16,7,Gray,Male
+60,American Shorthair,7,8,Bicolor,Female
+61,Cornish Rex,15,6,Blue,Male
+62,Munchkin,2,7,Blue,Male
+63,Siamese,5,9,Brown,Female
+64,Persian,17,5,White,Male
+65,Persian,5,4,Bicolor,Male
+66,Bengal,8,3,Red,Female
+67,Chartreux,15,2,Calico,Male
+68,Sphynx,8,8,Calico,Male
+69,British Shorthair,3,5,Tricolor,Male
+70,Birman,17,7,Pointed,Female
+71,Balinese,16,7,Tricolor,Female
+72,Himalayan,16,9,Orange,Male
+73,Norwegian Forest,19,2,Brown,Female
+74,Bengal,12,2,Tricolor,Male
+75,Oriental,15,5,Tabby,Female
+76,Scottish Fold,8,5,Tricolor,Male
+77,Singapura,3,6,Calico,Male
+78,Burmese,18,4,Bicolor,Female
+79,Maine Coon,4,8,Black,Female
+80,Maine Coon,8,7,Tricolor,Female
+81,Abyssinian,14,3,Pointed,Female
+82,Oriental,17,4,Gray,Female
+83,Manx,6,7,Black,Male
+84,Ragdoll,5,8,Cream,Female
+85,British Shorthair,14,7,Red,Female
+86,Cornish Rex,6,8,Red,Female
+87,Savannah,12,3,Sable,Female
+88,Turkish Angora,9,3,Orange,Male
+89,American Shorthair,1,8,Tricolor,Male
+90,Ocicat,18,6,Sable,Female
+91,Persian,6,8,Calico,Female
+92,Turkish Angora,5,4,Brown,Male
+93,Ragdoll,2,5,Tricolor,Male
+94,Chartreux,6,2,Tabby,Male
+95,Russian Blue,17,7,Cream,Male
+96,Manx,7,6,Sable,Male
+97,Scottish Fold,9,6,Sable,Male
+98,Balinese,5,6,White,Female
+99,Savannah,11,9,Red,Female
+100,Bengal,11,5,Tortoiseshell,Female
+101,British Shorthair,4,7,Red,Male
+102,Bengal,6,8,White,Female
+103,Norwegian Forest,10,2,Cream,Female
+104,Balinese,9,3,Black,Female
+105,Ragdoll,18,7,Red,Male
+106,Russian Blue,9,5,Tortoiseshell,Male
+107,Bengal,11,4,Calico,Male
+108,Balinese,2,4,Orange,Female
+109,Birman,15,5,Cream,Male
+110,Turkish Angora,6,6,Brown,Female
+111,Norwegian Forest,17,5,Black,Female
+112,Balinese,4,7,Tortoiseshell,Female
+113,Ragdoll,8,9,Calico,Male
+114,Singapura,2,8,Blue,Male
+115,Cornish Rex,9,2,Tricolor,Female
+116,Norwegian Forest,1,7,Cream,Female
+117,Siberian,6,3,Gray,Female
+118,Chartreux,16,8,Calico,Female
+119,Chartreux,7,9,Bicolor,Male
+120,Devon Rex,16,3,Pointed,Male
+121,Himalayan,6,9,Sable,Female
+122,Sphynx,10,3,Tabby,Male
+123,Oriental,18,8,Tortoiseshell,Female
+124,Ragdoll,17,7,Black,Male
+125,Persian,17,3,Bicolor,Female
+126,Sphynx,12,6,Red,Female
+127,Persian,15,7,Pointed,Female
+128,Himalayan,6,8,Brown,Female
+129,American Shorthair,16,7,Bicolor,Male
+130,Bengal,14,4,Calico,Male
+131,Siamese,12,9,Red,Female
+132,Devon Rex,12,4,Blue,Male
+133,Exotic Shorthair,2,5,Black,Female
+134,Ragdoll,8,3,Cream,Male
+135,Siamese,17,4,Tortoiseshell,Female
+136,Scottish Fold,8,2,Brown,Male
+137,Siberian,16,8,Bicolor,Female
+138,Devon Rex,1,5,Blue,Female
+139,Abyssinian,5,9,Tortoiseshell,Female
+140,Chartreux,19,6,Calico,Female
+141,Oriental,3,4,Orange,Female
+142,Persian,9,3,Black,Male
+143,Scottish Fold,11,8,Gray,Male
+144,American Shorthair,6,8,Bicolor,Female
+145,Savannah,7,8,Orange,Female
+146,Singapura,7,6,Pointed,Male
+147,Cornish Rex,5,2,White,Female
+148,Ocicat,2,2,Calico,Female
+149,Siamese,5,2,Brown,Female
+150,Manx,6,6,Calico,Female
+151,Siamese,6,7,Tabby,Female
+152,Ragdoll,7,4,Calico,Male
+153,Ocicat,4,4,Red,Female
+154,Ragdoll,18,7,Sable,Male
+155,American Shorthair,16,7,Tabby,Female
+156,Turkish Angora,19,3,Gray,Male
+157,Ragdoll,10,7,Blue,Female
+158,Balinese,5,6,Gray,Male
+159,Himalayan,18,4,Red,Male
+160,American Shorthair,3,7,Pointed,Male
+161,Ocicat,4,5,Red,Female
+162,Turkish Angora,14,3,Brown,Male
+163,Oriental,12,4,Red,Male
+164,Singapura,14,5,Tricolor,Male
+165,Maine Coon,5,3,Calico,Male
+166,Bengal,18,2,Orange,Male
+167,Scottish Fold,7,2,Gray,Male
+168,Tonkinese,16,5,Bicolor,Female
+169,Savannah,3,2,Pointed,Male
+170,Birman,11,5,Black,Male
+171,Savannah,18,3,Brown,Female
+172,Siamese,6,4,Bicolor,Male
+173,Egyptian Mau,5,9,Sable,Female
+174,Devon Rex,5,3,Cream,Male
+175,Persian,16,5,Orange,Female
+176,Tonkinese,3,8,Brown,Male
+177,Persian,12,6,Red,Male
+178,British Shorthair,3,6,Bicolor,Female
+179,Egyptian Mau,2,9,Gray,Male
+180,Turkish Angora,15,8,Red,Male
+181,Scottish Fold,17,7,Gray,Female
+182,Egyptian Mau,12,7,White,Male
+183,Burmese,2,7,Tortoiseshell,Male
+184,Munchkin,2,5,Orange,Male
+185,Birman,14,2,Cream,Male
+186,Siberian,7,5,Gray,Male
+187,Burmese,14,9,Pointed,Female
+188,Exotic Shorthair,7,9,Brown,Female
+189,Siamese,17,7,Tricolor,Female
+190,Ragdoll,4,4,Pointed,Female
+191,Siamese,15,9,Pointed,Female
+192,Savannah,3,3,White,Female
+193,Siberian,6,5,Tricolor,Female
+194,Devon Rex,8,9,Pointed,Male
+195,Birman,16,7,Bicolor,Female
+196,Birman,15,8,Pointed,Female
+197,Egyptian Mau,4,4,Tricolor,Male
+198,Birman,8,6,Gray,Female
+199,Singapura,8,5,Orange,Female
+200,Siamese,7,2,Orange,Male
+201,Burmese,18,7,Blue,Male
+202,Balinese,12,5,Tabby,Female
+203,Ragdoll,4,7,Tabby,Female
+204,Russian Blue,14,6,Gray,Male
+205,Exotic Shorthair,5,7,Red,Male
+206,Turkish Angora,7,7,Sable,Male
+207,Persian,12,4,Orange,Male
+208,Bengal,15,5,Tricolor,Male
+209,Ragdoll,19,9,Tortoiseshell,Male
+210,Siberian,13,5,Sable,Male
+211,Savannah,4,7,Black,Male
+212,Munchkin,6,8,Bicolor,Male
+213,Tonkinese,8,2,Tortoiseshell,Female
+214,Siberian,15,5,Pointed,Female
+215,Manx,12,3,Black,Male
+216,Siberian,10,8,Black,Female
+217,Savannah,12,8,Black,Male
+218,Burmese,17,5,Orange,Male
+219,Devon Rex,8,4,Tricolor,Male
+220,Burmese,2,8,Tortoiseshell,Female
+221,Exotic Shorthair,19,3,Cream,Male
+222,Chartreux,1,2,Cream,Male
+223,Turkish Angora,10,4,Tabby,Female
+224,Manx,9,2,Pointed,Female
+225,Devon Rex,19,8,Brown,Female
+226,Munchkin,12,8,Bicolor,Female
+227,Manx,18,8,Black,Male
+228,Tonkinese,16,5,Red,Female
+229,Chartreux,4,5,White,Male
+230,Exotic Shorthair,11,5,Tricolor,Male
+231,Egyptian Mau,15,6,Tabby,Female
+232,Maine Coon,16,6,Tabby,Female
+233,Birman,2,9,Bicolor,Male
+234,Persian,13,6,Sable,Female
+235,Bengal,12,3,Black,Female
+236,Ocicat,8,6,Red,Male
+237,Ocicat,12,7,Sable,Female
+238,Manx,14,9,Blue,Female
+239,British Shorthair,3,7,Tortoiseshell,Male
+240,Chartreux,2,5,Red,Male
+241,Siberian,17,9,Bicolor,Female
+242,Abyssinian,2,5,Tabby,Female
+243,Burmese,17,2,Black,Male
+244,Burmese,2,4,Tricolor,Female
+245,Norwegian Forest,2,4,Tricolor,Male
+246,Oriental,13,3,Tabby,Female
+247,American Shorthair,7,4,Orange,Female
+248,Birman,9,9,Sable,Male
+249,Tonkinese,9,8,Calico,Male
+250,Norwegian Forest,14,3,Cream,Female
+251,Savannah,11,9,Brown,Female
+252,British Shorthair,19,2,Sable,Female
+253,Norwegian Forest,1,5,Tricolor,Female
+254,Exotic Shorthair,5,5,Tricolor,Male
+255,Manx,1,3,Tricolor,Male
+256,Maine Coon,6,6,Cream,Female
+257,Tonkinese,16,9,Orange,Female
+258,Russian Blue,16,2,White,Male
+259,Burmese,13,9,Pointed,Male
+260,Exotic Shorthair,14,9,Sable,Female
+261,Burmese,11,7,Sable,Female
+262,Ragdoll,10,5,Black,Male
+263,American Shorthair,17,5,Brown,Male
+264,Norwegian Forest,7,9,Cream,Male
+265,Ragdoll,4,8,Orange,Male
+266,Scottish Fold,17,2,Sable,Male
+267,Russian Blue,1,7,Brown,Female
+268,British Shorthair,2,7,Red,Female
+269,Ragdoll,19,3,Gray,Female
+270,Tonkinese,1,9,Cream,Female
+271,Exotic Shorthair,12,6,Bicolor,Female
+272,Sphynx,19,8,Blue,Male
+273,Cornish Rex,19,8,Orange,Male
+274,Savannah,16,3,Tabby,Male
+275,Persian,16,2,Calico,Male
+276,Savannah,8,4,Black,Female
+277,Birman,13,3,Bicolor,Female
+278,Balinese,14,4,Bicolor,Male
+279,Scottish Fold,19,8,Tricolor,Male
+280,Tonkinese,15,2,Black,Female
+281,Savannah,15,7,Brown,Female
+282,Sphynx,8,4,Blue,Male
+283,Exotic Shorthair,13,5,Tortoiseshell,Female
+284,Munchkin,12,9,Sable,Female
+285,Norwegian Forest,13,4,Sable,Female
+286,Birman,16,6,White,Female
+287,Siamese,12,6,Pointed,Female
+288,Ocicat,14,8,Cream,Male
+289,Egyptian Mau,15,2,Tabby,Male
+290,Manx,19,6,Cream,Female
+291,Cornish Rex,5,9,Brown,Female
+292,Chartreux,2,7,Gray,Male
+293,Egyptian Mau,18,7,Tricolor,Female
+294,Turkish Angora,18,8,Gray,Male
+295,Balinese,17,4,Tortoiseshell,Male
+296,Chartreux,10,8,Gray,Male
+297,Exotic Shorthair,17,9,Calico,Male
+298,Ragdoll,3,5,Pointed,Female
+299,Ragdoll,16,2,Cream,Male
+300,Abyssinian,18,9,Tortoiseshell,Male
+301,Oriental,7,3,Tricolor,Female
+302,Oriental,1,5,Tabby,Male
+303,Oriental,7,8,Cream,Male
+304,Cornish Rex,13,3,White,Female
+305,Ragdoll,16,2,Tortoiseshell,Male
+306,Turkish Angora,11,3,Calico,Female
+307,Singapura,3,5,Bicolor,Female
+308,American Shorthair,9,9,Sable,Female
+309,Russian Blue,7,6,Red,Female
+310,Ragdoll,3,8,Red,Male
+311,Oriental,1,2,White,Male
+312,Scottish Fold,11,6,Tabby,Male
+313,Ocicat,13,6,Tortoiseshell,Male
+314,Siberian,4,6,Black,Male
+315,Abyssinian,10,5,Tabby,Female
+316,Abyssinian,8,8,Orange,Female
+317,Exotic Shorthair,17,7,Blue,Female
+318,Chartreux,11,8,Black,Female
+319,Maine Coon,5,4,Tricolor,Male
+320,Russian Blue,18,6,Gray,Female
+321,Siamese,4,4,Gray,Female
+322,Siamese,6,2,Orange,Male
+323,Burmese,7,3,Bicolor,Male
+324,Maine Coon,12,6,White,Male
+325,Sphynx,3,7,Sable,Male
+326,Birman,8,4,Bicolor,Female
+327,Bengal,10,2,Black,Male
+328,Persian,1,5,Orange,Female
+329,Savannah,17,7,Blue,Male
+330,Siamese,18,8,Calico,Female
+331,Sphynx,9,7,Brown,Female
+332,Chartreux,16,2,Sable,Male
+333,Devon Rex,17,5,White,Male
+334,Birman,18,3,Brown,Female
+335,Exotic Shorthair,11,3,White,Female
+336,Maine Coon,18,7,Black,Male
+337,Himalayan,4,4,White,Female
+338,Devon Rex,8,9,Blue,Female
+339,Ragdoll,10,5,Orange,Female
+340,Burmese,4,5,Pointed,Female
+341,Ocicat,8,7,Orange,Male
+342,Birman,17,3,Tricolor,Male
+343,Balinese,3,7,Cream,Female
+344,Bengal,5,7,Tabby,Female
+345,Devon Rex,5,2,Gray,Male
+346,Manx,7,2,Blue,Male
+347,Ragdoll,1,4,Bicolor,Female
+348,Abyssinian,18,3,Black,Female
+349,Munchkin,6,8,Brown,Female
+350,Ragdoll,15,9,Pointed,Male
+351,American Shorthair,9,3,Tortoiseshell,Male
+352,Exotic Shorthair,3,6,Pointed,Female
+353,Himalayan,18,7,Pointed,Male
+354,Maine Coon,16,9,Black,Female
+1,American Shorthair,17,4,Red,Male
+2,Himalayan,9,3,Red,Female
+3,Exotic Shorthair,13,6,Tortoiseshell,Female
+4,Balinese,8,5,White,Female
+5,Exotic Shorthair,13,9,Orange,Male
+6,Siamese,1,8,Tabby,Female
+7,Sphynx,12,7,Calico,Female
+8,Sphynx,12,6,Tricolor,Female
+9,Russian Blue,9,3,Black,Male
+10,Russian Blue,1,2,Gray,Male
+11,Chartreux,14,4,Bicolor,Female
+12,Exotic Shorthair,14,5,Pointed,Male
+13,Siamese,6,8,Orange,Male
+14,Norwegian Forest,16,9,Bicolor,Female
+15,Ocicat,8,7,Blue,Female
+16,Chartreux,19,9,White,Female
+17,Abyssinian,5,2,Tortoiseshell,Male
+18,Abyssinian,15,4,Gray,Female
+19,Savannah,13,5,Gray,Male
+20,Tonkinese,6,5,Brown,Female
+21,Himalayan,17,7,Orange,Female
+22,British Shorthair,5,7,Orange,Male
+23,Abyssinian,10,3,Bicolor,Male
+24,American Shorthair,5,6,Pointed,Female
+25,Munchkin,17,7,Orange,Female
+26,Savannah,19,9,Tabby,Female
+27,Egyptian Mau,6,2,Cream,Female
+28,Himalayan,15,7,Calico,Male
+29,Oriental,4,9,Gray,Female
+30,Exotic Shorthair,17,6,Blue,Female
+31,Turkish Angora,1,9,Cream,Male
+32,Chartreux,18,3,Gray,Male
+33,Oriental,10,3,Gray,Female
+34,Manx,19,2,Red,Male
+35,American Shorthair,2,8,Black,Male
+36,Persian,17,5,Pointed,Male
+37,Ocicat,18,9,Pointed,Female
+38,Oriental,13,4,Tabby,Female
+39,Munchkin,7,8,Red,Female
+40,Savannah,5,5,Bicolor,Male
+41,Himalayan,4,6,Sable,Female
+42,Oriental,7,8,Orange,Male
+43,Singapura,5,7,Black,Female
+44,Persian,19,2,Tricolor,Female
+45,Tonkinese,7,8,Sable,Female
+46,Devon Rex,13,3,Bicolor,Male
+47,Scottish Fold,4,7,Sable,Male
+48,Bengal,15,5,Tricolor,Female
+49,Burmese,18,2,Cream,Female
+50,Balinese,4,4,Pointed,Female
+51,Ragdoll,4,7,Bicolor,Male
+52,Egyptian Mau,2,9,Gray,Male
+53,Birman,5,8,Tricolor,Female
+54,Burmese,8,3,Blue,Female
+55,Ocicat,11,5,Red,Female
+56,Exotic Shorthair,11,3,Black,Female
+57,Ocicat,18,9,Gray,Female
+58,Turkish Angora,19,9,Brown,Male
+59,Cornish Rex,17,6,Black,Female
+60,Persian,1,4,Red,Male
+61,Egyptian Mau,5,9,Black,Male
+62,Birman,3,7,Red,Female
+63,Abyssinian,14,4,Pointed,Female
+64,Cornish Rex,2,4,Brown,Female
+65,Siberian,3,8,Black,Female
+66,Singapura,3,6,Brown,Female
+67,Himalayan,13,5,Blue,Male
+68,Burmese,8,9,Sable,Male
+69,Balinese,14,9,Black,Female
+70,Cornish Rex,18,9,Pointed,Male
+71,Persian,13,7,Sable,Male
+72,Savannah,18,5,Calico,Female
+73,Munchkin,1,8,Gray,Male
+74,Bengal,2,5,Tortoiseshell,Male
+75,Manx,5,5,Pointed,Male
+76,Persian,11,9,Bicolor,Male
+77,Scottish Fold,11,5,Gray,Female
+78,Turkish Angora,1,2,Blue,Female
+79,Tonkinese,3,8,Blue,Female
+80,Munchkin,2,6,Blue,Female
+81,Balinese,14,4,Orange,Female
+82,American Shorthair,16,5,Bicolor,Male
+83,Bengal,18,5,Brown,Female
+84,Tonkinese,5,4,Cream,Male
+85,Ragdoll,8,4,Orange,Male
+86,Singapura,7,2,Bicolor,Female
+87,Egyptian Mau,10,6,Pointed,Female
+88,Abyssinian,16,3,Brown,Female
+89,Birman,19,7,Pointed,Female
+90,Exotic Shorthair,11,2,Black,Female
+91,Siberian,19,3,Tabby,Male
+92,Sphynx,3,2,Tricolor,Male
+93,Persian,18,6,White,Male
+94,Birman,4,6,Bicolor,Female
+95,Norwegian Forest,17,3,Cream,Male
+96,Norwegian Forest,13,8,Tortoiseshell,Female
+97,Chartreux,4,5,Tabby,Male
+98,Savannah,14,7,Tortoiseshell,Female
+99,Bengal,3,5,Cream,Male
+100,Abyssinian,4,5,Calico,Female
+101,Munchkin,18,8,Orange,Female
+102,Siberian,13,3,Sable,Male
+103,Singapura,7,5,Tabby,Male
+104,Scottish Fold,11,4,Black,Female
+105,Balinese,11,4,Tortoiseshell,Male
+106,Turkish Angora,6,6,Tortoiseshell,Male
+107,Himalayan,11,3,Sable,Male
+108,Ocicat,9,5,Blue,Male
+109,Egyptian Mau,16,4,White,Female
+110,Ragdoll,5,5,White,Male
+111,Oriental,6,7,Gray,Female
+112,American Shorthair,4,2,Black,Male
+113,Chartreux,8,5,Gray,Female
+114,Siamese,16,6,White,Male
+115,Egyptian Mau,16,8,Gray,Male
+116,Chartreux,11,2,Tortoiseshell,Female
+117,Singapura,14,9,Tricolor,Male
+118,Savannah,8,3,White,Male
+119,Cornish Rex,6,5,Orange,Female
+120,Munchkin,8,5,Red,Female
+121,Munchkin,19,2,Bicolor,Female
+122,American Shorthair,8,6,Blue,Female
+123,Siberian,1,9,Orange,Female
+124,Cornish Rex,13,6,Cream,Female
+125,Maine Coon,8,6,Blue,Male
+126,British Shorthair,9,7,Black,Male
+127,Scottish Fold,16,3,Orange,Male
+128,Chartreux,5,8,Tortoiseshell,Male
+129,Devon Rex,11,9,Tabby,Male
+130,Ocicat,17,2,Gray,Male
+131,Devon Rex,9,9,Red,Male
+132,Singapura,17,8,Black,Female
+133,Munchkin,15,4,Black,Male
+134,Ragdoll,1,3,Calico,Female
+135,Singapura,16,6,Gray,Male
+136,Himalayan,13,6,Blue,Female
+137,Scottish Fold,3,5,Cream,Male
+138,Oriental,14,7,Sable,Male
+139,Russian Blue,3,7,Red,Male
+140,Siberian,18,3,Gray,Female
+141,Manx,14,2,Tortoiseshell,Male
+142,British Shorthair,17,8,Brown,Male
+143,British Shorthair,6,8,Calico,Female
+144,Abyssinian,8,6,White,Male
+145,Birman,2,4,Gray,Male
+146,Siberian,18,5,Pointed,Male
+147,Burmese,3,2,Calico,Male
+148,Abyssinian,2,2,Tricolor,Male
+149,Devon Rex,5,7,Tortoiseshell,Female
+150,Burmese,9,2,Gray,Male
+151,Tonkinese,19,9,Sable,Male
+152,Burmese,2,7,Tricolor,Male
+153,Norwegian Forest,4,7,Cream,Male
+154,Manx,17,8,White,Female
+155,Birman,4,7,Brown,Female
+156,Ragdoll,6,9,Bicolor,Female
+157,British Shorthair,2,5,Tricolor,Male
+158,Himalayan,4,4,Tricolor,Female
+159,Abyssinian,8,6,Blue,Female
+160,Balinese,2,5,Pointed,Male
+161,Manx,2,5,Gray,Male
+162,Siamese,8,4,Brown,Female
+163,Munchkin,5,8,Tortoiseshell,Male
+164,Devon Rex,14,8,Pointed,Female
+165,Burmese,13,2,Cream,Female
+166,American Shorthair,19,6,Gray,Female
+167,Siberian,1,3,Cream,Female
+168,Cornish Rex,12,9,Sable,Male
+169,Burmese,3,2,Tricolor,Male
+170,Bengal,14,7,White,Male
+171,Bengal,5,2,Tabby,Male
+172,Russian Blue,17,4,Bicolor,Female
+173,Himalayan,17,3,White,Female
+174,Cornish Rex,11,6,Bicolor,Female
+175,Tonkinese,12,6,Cream,Female
+176,Manx,4,9,Tabby,Female
+177,Balinese,9,6,Bicolor,Female
+178,Maine Coon,15,9,Calico,Male
+179,Sphynx,1,4,Tabby,Female
+180,Manx,1,7,Tortoiseshell,Female
+181,Cornish Rex,3,3,Gray,Male
+182,Ocicat,12,3,Brown,Male
+183,Exotic Shorthair,6,2,Brown,Female
+184,Maine Coon,3,7,Orange,Male
+185,Egyptian Mau,8,5,Red,Female
+186,Chartreux,13,3,Calico,Male
+187,Cornish Rex,12,6,Calico,Male
+188,Egyptian Mau,2,6,Cream,Male
+189,Tonkinese,17,5,Cream,Male
+190,Tonkinese,19,5,Pointed,Male
+191,Abyssinian,19,2,Gray,Male
+192,Oriental,15,2,Bicolor,Male
+193,Himalayan,16,8,Red,Male
+194,Oriental,16,4,Blue,Male
+195,Tonkinese,6,7,Black,Female
+196,Persian,2,8,Calico,Female
+197,Egyptian Mau,11,6,Sable,Female
+198,Burmese,3,4,Cream,Male
+199,Bengal,9,6,Tricolor,Female
+200,Himalayan,16,4,Cream,Male
+201,Balinese,8,9,Gray,Male
+202,Chartreux,13,2,Pointed,Male
+203,Devon Rex,4,3,Calico,Male
+204,Ragdoll,2,7,Tabby,Female
+205,Scottish Fold,17,8,Sable,Male
+206,Maine Coon,18,5,Tabby,Male
+207,Balinese,17,6,Red,Female
+208,Bengal,6,7,Orange,Male
+209,Bengal,11,2,Red,Female
+210,Devon Rex,18,8,White,Male
+211,Devon Rex,14,2,Gray,Male
+212,Norwegian Forest,1,2,Tortoiseshell,Male
+213,Scottish Fold,2,4,Tortoiseshell,Male
+214,Siberian,7,7,Cream,Male
+215,Birman,10,9,Bicolor,Female
+216,Ocicat,6,9,Tricolor,Male
+217,Savannah,13,5,Calico,Female
+218,Balinese,11,8,Tabby,Female
+219,British Shorthair,17,2,Cream,Female
+220,Oriental,18,4,Calico,Female
+221,Munchkin,5,8,Red,Female
+222,Ocicat,15,2,Gray,Female
+223,Norwegian Forest,14,9,Cream,Male
+224,Ragdoll,18,4,Tabby,Female
+225,Egyptian Mau,7,9,Sable,Male
+226,Russian Blue,11,7,Blue,Male
+227,American Shorthair,6,3,Bicolor,Male
+228,Himalayan,5,9,Cream,Female
+229,Scottish Fold,5,4,Tricolor,Male
+230,Siamese,19,6,Gray,Male
+231,Maine Coon,19,9,Brown,Female
+232,Savannah,11,5,Gray,Female
+233,Ragdoll,12,4,Pointed,Female
+234,Russian Blue,15,5,Tabby,Male
+235,Bengal,17,9,White,Female
+236,Singapura,2,4,Tricolor,Female
+237,Maine Coon,9,5,Blue,Female
+238,Himalayan,8,9,Tabby,Male
+239,Persian,6,9,Gray,Male
+240,Abyssinian,16,7,Red,Female
+241,Burmese,10,3,Red,Female
+242,Singapura,1,6,Cream,Male
+243,Bengal,15,6,Tricolor,Male
+244,Ragdoll,3,6,Pointed,Female
+245,Sphynx,5,8,Sable,Male
+246,British Shorthair,1,8,Pointed,Male
+247,Ragdoll,6,4,Pointed,Female
+248,Siamese,18,9,Brown,Female
+249,Manx,5,8,White,Male
+250,Birman,1,6,Bicolor,Male
+251,Munchkin,18,2,Red,Female
+252,Maine Coon,18,2,Cream,Female
+253,Munchkin,9,8,Sable,Male
+254,Bengal,10,8,Pointed,Female
+255,Singapura,5,6,Black,Female
+256,Persian,10,7,Gray,Male
+257,Burmese,13,6,Red,Female
+258,Siberian,17,4,Pointed,Female
+259,Egyptian Mau,4,8,White,Female
+260,Oriental,1,6,Black,Male
+261,Chartreux,15,5,Pointed,Female
+262,Sphynx,1,7,Calico,Female
+263,Maine Coon,12,3,White,Female
+264,Abyssinian,2,4,Red,Female
+265,Exotic Shorthair,19,4,Tortoiseshell,Female
+266,Birman,15,8,Red,Female
+267,Tonkinese,13,2,Pointed,Female
+268,Balinese,9,4,Blue,Female
+269,Abyssinian,6,4,Black,Male
+270,Ragdoll,3,8,Cream,Female
+271,Chartreux,18,3,Cream,Female
+272,Ocicat,16,7,Blue,Female
+273,Russian Blue,4,9,Tricolor,Female
+274,Ragdoll,17,5,Cream,Female
+275,British Shorthair,19,8,Tortoiseshell,Female
+276,Balinese,6,3,Gray,Male
+277,Abyssinian,19,7,Tortoiseshell,Male
+278,Egyptian Mau,8,7,Gray,Male
+279,Persian,18,7,Sable,Female
+280,Sphynx,5,5,Calico,Male
+281,Ocicat,14,2,Gray,Female
+282,Savannah,16,7,Sable,Female
+283,Oriental,15,3,Tricolor,Male
+284,Egyptian Mau,19,3,Tricolor,Female
+285,Abyssinian,1,3,Tabby,Male
+286,Chartreux,5,6,Tricolor,Male
+287,Sphynx,7,6,Gray,Male
+288,Munchkin,13,8,Tricolor,Male
+289,Birman,4,9,Tricolor,Male
+290,Savannah,19,7,Gray,Male
+291,Turkish Angora,14,3,Blue,Male
+292,Persian,18,4,Bicolor,Female
+293,Birman,2,2,Bicolor,Female
+294,Egyptian Mau,19,4,Orange,Male
+295,British Shorthair,13,2,Tortoiseshell,Male
+296,Manx,16,9,Sable,Female
+297,Scottish Fold,8,8,Sable,Male
+298,Egyptian Mau,3,8,Brown,Male
+299,Siamese,8,7,Pointed,Female
+300,Ocicat,14,8,Cream,Male
+301,Cornish Rex,17,2,Sable,Female
+302,Persian,2,6,White,Female
+303,Egyptian Mau,17,8,Calico,Female
+304,Singapura,14,2,Tabby,Female
+305,Turkish Angora,6,8,Calico,Male
+306,Persian,19,9,Cream,Male
+307,Egyptian Mau,17,3,Calico,Male
+308,British Shorthair,13,9,Gray,Female
+309,Maine Coon,5,9,Sable,Female
+310,Russian Blue,17,3,Pointed,Female
+311,Ocicat,15,7,Black,Female
+312,Manx,9,7,Blue,Male
+313,American Shorthair,15,8,Gray,Male
+314,Siberian,18,2,White,Male
+315,Oriental,11,8,Tricolor,Male
+316,Bengal,15,6,Red,Female
+317,Manx,7,4,Pointed,Female
+318,Exotic Shorthair,14,6,Calico,Male
+319,Ocicat,5,6,Pointed,Female
+320,Himalayan,16,9,Gray,Male
+321,Ragdoll,15,4,Red,Female
+322,Siamese,11,3,Tricolor,Female
+323,Balinese,12,8,Blue,Female
+324,Siberian,15,7,Red,Female
+325,Manx,12,8,Tabby,Female
+326,Norwegian Forest,3,5,Blue,Male
+327,Cornish Rex,1,6,Tabby,Female
+328,Bengal,15,3,Tortoiseshell,Female
+329,Oriental,7,2,Blue,Male
+330,Bengal,19,6,Red,Male
+331,Himalayan,15,6,Calico,Male
+332,American Shorthair,14,9,Tortoiseshell,Female
+333,Siberian,13,8,Pointed,Female
+334,Siberian,6,2,Cream,Male
+335,Cornish Rex,9,9,Blue,Male
+336,Siamese,9,5,Gray,Female
+337,Ragdoll,16,5,Red,Female
+338,Oriental,11,4,Brown,Female
+339,Singapura,11,7,Tricolor,Female
+340,Cornish Rex,18,2,Red,Female
+341,Singapura,1,9,Calico,Male
+342,Tonkinese,8,3,Brown,Male
+343,Tonkinese,7,3,Tortoiseshell,Male
+344,Russian Blue,3,5,Gray,Female
+345,Norwegian Forest,2,4,White,Female
+346,Siamese,17,7,Calico,Female
+347,Singapura,14,4,Tricolor,Female
+348,Egyptian Mau,18,8,White,Female
+349,British Shorthair,8,3,Black,Male
+350,Turkish Angora,2,7,Pointed,Male
+351,Devon Rex,3,7,Bicolor,Female
+352,Exotic Shorthair,1,8,Bicolor,Female
+353,Munchkin,19,4,Black,Male
+354,Norwegian Forest,7,7,Cream,Male
+355,Singapura,7,5,White,Female
+356,Birman,4,5,Bicolor,Male
+357,Persian,5,4,Cream,Female
+358,Scottish Fold,19,5,Black,Female
+359,Savannah,7,7,Gray,Male
+360,Siberian,15,8,Calico,Female
+361,Abyssinian,16,5,Black,Female
+362,British Shorthair,18,4,Calico,Female
+363,Siberian,2,5,Tabby,Male
+364,Chartreux,10,9,Orange,Male
+365,Norwegian Forest,18,2,Tortoiseshell,Female
+366,Oriental,12,5,Blue,Male
+367,British Shorthair,1,6,Tricolor,Female
+368,Chartreux,4,3,Tabby,Female
+369,Savannah,5,2,Black,Male
+370,American Shorthair,16,4,Tricolor,Female
+371,Abyssinian,6,3,White,Male
+372,Munchkin,5,6,Red,Female
+373,Maine Coon,10,3,Brown,Female
+374,Oriental,17,5,Blue,Female
+375,Siamese,17,3,Gray,Female
+376,American Shorthair,6,9,Pointed,Male
+377,Munchkin,1,4,Tortoiseshell,Female
+378,Turkish Angora,4,5,Orange,Male
+379,Sphynx,9,9,Orange,Male
+380,Ocicat,10,5,Tricolor,Male
+381,Tonkinese,11,6,Tricolor,Male
+382,Bengal,7,8,Cream,Female
+383,Exotic Shorthair,13,7,Black,Female
+384,American Shorthair,12,9,Black,Male
+385,Munchkin,3,3,Tortoiseshell,Male
+386,Turkish Angora,18,7,Pointed,Male
+387,Exotic Shorthair,8,9,Calico,Male
+388,American Shorthair,8,6,Tricolor,Male
+389,Maine Coon,7,8,Blue,Female
+390,Russian Blue,6,5,Sable,Male
+391,Persian,10,5,Blue,Male
+392,Oriental,13,8,Bicolor,Female
+393,Devon Rex,9,6,Orange,Female
+394,Siamese,2,8,Calico,Male
+395,Birman,15,5,Tabby,Male
+396,Egyptian Mau,14,8,Sable,Male
+397,Exotic Shorthair,16,7,Black,Female
+398,Scottish Fold,5,7,Red,Female
+399,Devon Rex,3,3,Cream,Male
+400,Singapura,8,2,Blue,Female
+401,Ocicat,14,7,Gray,Male
+402,Burmese,9,8,Tortoiseshell,Female
+403,Burmese,6,6,Bicolor,Female
+404,Maine Coon,8,4,Tabby,Male
+405,Persian,16,2,Sable,Male
+406,Sphynx,16,4,Black,Female
+407,Burmese,10,5,Pointed,Male
+408,Siamese,10,2,Orange,Female
+409,Norwegian Forest,12,5,Brown,Female
+410,Ragdoll,4,9,White,Male
+411,Munchkin,8,5,Sable,Female
+412,Turkish Angora,19,9,Bicolor,Female
+413,Sphynx,9,9,Red,Female
+414,Savannah,2,9,White,Male
+415,Egyptian Mau,4,8,Sable,Female
+416,Burmese,19,7,Black,Male
+417,British Shorthair,18,6,Brown,Male
+418,Balinese,15,8,Red,Female
+419,British Shorthair,11,8,Calico,Male
+420,Munchkin,11,4,Bicolor,Male
+421,Egyptian Mau,12,8,Calico,Male
+422,British Shorthair,14,7,Tortoiseshell,Female
+423,Siamese,15,3,Black,Male
+424,Munchkin,6,6,Pointed,Male
+425,Munchkin,11,6,Blue,Female
+426,British Shorthair,8,4,Pointed,Male
+427,Sphynx,18,6,Cream,Male
+428,Ocicat,6,9,Orange,Male
+429,Sphynx,7,4,Red,Female
+430,Siberian,12,6,Orange,Male
+431,Oriental,12,2,Black,Male
+432,Bengal,18,9,Blue,Male
+433,Tonkinese,19,4,Bicolor,Female
+434,Siberian,6,3,Orange,Female
+435,Chartreux,18,8,Blue,Female
+436,Ocicat,9,7,Orange,Male
+437,Himalayan,18,6,Black,Female
+438,Ragdoll,11,7,Brown,Male
+439,Siberian,8,8,Calico,Male
+440,Egyptian Mau,12,2,Tricolor,Female
+441,Singapura,15,7,Pointed,Male
+442,Birman,1,3,Red,Male
+443,Manx,2,8,Calico,Male
+444,Chartreux,2,6,Pointed,Male
+445,Siberian,5,6,Bicolor,Female
+446,Sphynx,13,7,Blue,Male
+447,Tonkinese,9,7,Orange,Male
+448,Devon Rex,19,7,Orange,Male
+449,Manx,13,5,Tabby,Male
+450,Turkish Angora,4,6,Calico,Male
+451,Cornish Rex,11,3,Orange,Male
+452,Sphynx,8,3,Tricolor,Female
+453,Maine Coon,15,2,Sable,Male
+454,Sphynx,9,5,Cream,Male
+455,British Shorthair,15,2,Tortoiseshell,Male
+456,Russian Blue,4,9,Gray,Male
+457,Singapura,4,8,Orange,Female
+458,Scottish Fold,18,2,Sable,Female
+459,Ocicat,13,6,Bicolor,Female
+460,Tonkinese,14,8,Sable,Male
+461,Turkish Angora,8,2,Tricolor,Female
+462,Birman,16,4,Brown,Male
+463,Abyssinian,15,5,Sable,Male
+464,Siberian,8,6,Brown,Female
+465,Sphynx,11,4,Tortoiseshell,Male
+466,Norwegian Forest,14,3,Red,Male
+467,Ocicat,19,5,Tortoiseshell,Male
+468,Scottish Fold,2,9,Sable,Female
+469,Ragdoll,12,3,Tabby,Male
+470,Scottish Fold,19,7,Cream,Male
+471,American Shorthair,15,8,Brown,Male
+472,Manx,6,3,Tricolor,Female
+473,Ocicat,9,6,White,Male
+474,Manx,19,4,Orange,Female
+475,Ragdoll,3,5,Orange,Female
+476,Exotic Shorthair,12,6,White,Male
+477,Turkish Angora,13,2,Calico,Female
+478,American Shorthair,12,5,Tabby,Female
+479,Sphynx,9,6,Tricolor,Female
+480,Singapura,5,9,Sable,Male
+481,Bengal,18,5,Brown,Female
+482,Himalayan,13,9,Cream,Male
+483,Sphynx,18,5,Calico,Female
+484,Burmese,11,8,Brown,Female
+485,Ragdoll,17,6,Tabby,Male
+486,Sphynx,11,3,Orange,Female
+487,Birman,12,8,Tricolor,Female
+488,Bengal,3,3,Tabby,Male
+489,Singapura,11,8,Blue,Female
+490,Himalayan,13,6,White,Female
+491,Cornish Rex,18,5,Bicolor,Female
+492,Burmese,8,3,Brown,Male
+493,Maine Coon,17,4,Sable,Female
+494,American Shorthair,11,2,Blue,Male
+495,Maine Coon,3,2,Brown,Male
+496,Turkish Angora,16,4,Black,Female
+497,Himalayan,12,9,Pointed,Female
+498,Abyssinian,15,8,Sable,Female
+499,Chartreux,10,4,Tricolor,Female
+500,Savannah,4,4,Black,Female
+501,Turkish Angora,17,5,Blue,Male
+502,Devon Rex,1,3,Tabby,Female
+503,Balinese,14,4,Blue,Female
+504,Maine Coon,7,6,Tortoiseshell,Male
+505,Himalayan,5,7,Brown,Female
+506,Exotic Shorthair,4,2,Gray,Male
+507,Russian Blue,18,2,Sable,Female
+508,Tonkinese,17,4,Brown,Male
+509,Turkish Angora,8,3,Black,Male
+510,Tonkinese,12,4,Tabby,Male
+511,Persian,3,6,Blue,Female
+512,Siamese,9,4,White,Female
+513,Egyptian Mau,9,5,Bicolor,Female
+514,Cornish Rex,7,9,Orange,Male
+515,Munchkin,2,8,Orange,Male
+516,Manx,5,8,Brown,Male
+517,Turkish Angora,12,8,Cream,Male
+518,American Shorthair,6,8,Pointed,Male
+519,Savannah,8,4,Bicolor,Male
+520,Balinese,11,5,Brown,Female
+521,Oriental,10,3,Tortoiseshell,Male
+522,Turkish Angora,19,8,Gray,Male
+523,Persian,6,7,Brown,Female
+524,Russian Blue,14,8,Gray,Female
+525,Tonkinese,16,3,Calico,Female
+526,Oriental,13,9,Bicolor,Female
+527,American Shorthair,12,6,Brown,Female
+528,Bengal,1,3,Orange,Female
+529,Abyssinian,15,5,Red,Male
+530,Ragdoll,8,3,Bicolor,Female
+531,Devon Rex,1,5,Tortoiseshell,Female
+532,Russian Blue,2,6,Gray,Male
+533,Sphynx,16,5,Pointed,Male
+534,Balinese,14,4,Tortoiseshell,Female
+535,Siberian,12,8,Gray,Male
+536,Devon Rex,16,3,Bicolor,Male
+537,Siberian,5,8,Gray,Female
+538,American Shorthair,11,8,Blue,Male
+539,Egyptian Mau,8,2,Brown,Male
+540,Himalayan,11,8,Cream,Female
+541,Abyssinian,12,4,Calico,Female
+542,Singapura,1,7,Red,Female
+543,Himalayan,18,8,Tricolor,Female
+544,Turkish Angora,13,8,Gray,Male
+545,Exotic Shorthair,12,5,Gray,Male
+546,Ragdoll,16,9,Red,Female
+547,Scottish Fold,3,7,Tricolor,Male
+548,Balinese,3,7,Brown,Male
+549,Scottish Fold,11,7,Brown,Male
+550,Maine Coon,5,4,Pointed,Female
+551,Cornish Rex,5,4,Black,Female
+552,Balinese,13,4,Red,Male
+553,Devon Rex,18,8,Bicolor,Male
+554,Scottish Fold,17,8,Tortoiseshell,Male
+555,American Shorthair,16,4,Tricolor,Male
+556,Munchkin,7,5,Black,Female
+557,Singapura,7,3,Tabby,Male
+558,Cornish Rex,17,3,Cream,Male
+559,Balinese,10,4,Orange,Female
+560,Devon Rex,14,2,Calico,Male
+561,Siamese,10,9,Blue,Male
+562,British Shorthair,3,3,Orange,Male
+563,Oriental,10,5,Tricolor,Male
+564,Siamese,15,8,White,Female
+565,Balinese,5,5,Blue,Male
+566,Russian Blue,1,3,Sable,Female
+567,Oriental,11,5,Cream,Male
+568,Manx,14,5,Calico,Female
+569,Munchkin,12,6,Bicolor,Male
+570,Chartreux,3,5,Red,Female
+571,Bengal,6,3,Tortoiseshell,Male
+572,Singapura,8,3,Orange,Male
+573,Bengal,18,7,Brown,Male
+574,Oriental,4,7,Sable,Male
+575,Scottish Fold,16,8,Tricolor,Male
+576,Russian Blue,3,2,Brown,Female
+577,Birman,17,4,Tabby,Female
+578,Maine Coon,19,3,Tortoiseshell,Female
+579,Sphynx,19,5,Black,Female
+580,Abyssinian,11,7,White,Male
+581,Persian,19,7,Sable,Male
+582,Singapura,4,2,Orange,Female
+583,Maine Coon,18,6,Tabby,Male
+584,Singapura,8,9,Orange,Female
+585,Ragdoll,11,8,Gray,Male
+586,Manx,15,7,Black,Male
+587,American Shorthair,6,2,Cream,Female
+588,Burmese,12,5,Tricolor,Male
+589,American Shorthair,11,3,Bicolor,Male
+590,Balinese,11,8,Calico,Male
+591,Munchkin,10,8,Calico,Female
+592,Birman,4,2,Sable,Male
+593,American Shorthair,12,8,Tortoiseshell,Female
+594,Manx,1,5,Red,Female
+595,Burmese,7,6,Brown,Female
+596,Abyssinian,2,7,Cream,Female
+597,Scottish Fold,13,2,White,Female
+598,Ocicat,10,9,Cream,Male
+599,Munchkin,12,5,Brown,Male
+600,Burmese,4,4,White,Male
+601,American Shorthair,10,3,Tortoiseshell,Male
+602,Ragdoll,9,5,Tortoiseshell,Male
+603,Russian Blue,9,4,Brown,Female
+604,Egyptian Mau,10,3,Pointed,Male
+605,Siberian,14,7,Bicolor,Male
+606,Tonkinese,16,9,Pointed,Female
+607,Persian,16,3,Tabby,Male
+608,Scottish Fold,5,3,Blue,Female
+609,Ragdoll,2,4,Tricolor,Female
+610,British Shorthair,6,2,Red,Male
+611,Ocicat,11,7,Sable,Male
+612,Ragdoll,1,4,Tortoiseshell,Male
+613,Manx,7,8,Orange,Female
+614,British Shorthair,4,4,Blue,Female
+615,Egyptian Mau,17,5,Sable,Female
+616,Siamese,4,5,White,Male
+617,American Shorthair,7,6,Cream,Female
+618,American Shorthair,10,9,Red,Female
+619,British Shorthair,6,4,Cream,Male
+620,Balinese,12,4,Orange,Male
+621,Savannah,18,6,Tortoiseshell,Female
+622,Tonkinese,12,4,Tortoiseshell,Male
+623,Persian,4,9,Calico,Female
+624,Bengal,15,4,Brown,Female
+625,Siberian,15,6,Tabby,Female
+626,Oriental,17,6,Blue,Male
+627,Siamese,4,6,Pointed,Male
+628,Maine Coon,7,3,White,Female
+629,Russian Blue,12,5,Calico,Female
+630,Norwegian Forest,7,6,Bicolor,Female
+631,Tonkinese,3,3,Red,Female
+632,Maine Coon,1,9,Sable,Male
+633,Cornish Rex,2,7,Tabby,Male
+634,Russian Blue,5,5,White,Male
+635,Sphynx,14,9,White,Male
+636,British Shorthair,9,9,White,Male
+637,Maine Coon,8,6,Tabby,Female
+638,Scottish Fold,18,9,Red,Male
+639,British Shorthair,9,7,Tabby,Female
+640,Exotic Shorthair,6,4,Calico,Female
+641,British Shorthair,2,4,Tabby,Female
+642,British Shorthair,19,5,Gray,Female
+643,British Shorthair,11,2,Bicolor,Female
+644,Savannah,12,5,Bicolor,Female
+645,American Shorthair,8,3,Tortoiseshell,Female
